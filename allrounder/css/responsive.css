@@ -1,0 +1,22 @@
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+    .left_align_area {width: 25%;}
+    .right_align_area {width: 75%;}
+    .inner_menu_area ul li a {font-size: 11px;}
+    .inner_menu_area ul li a span{font-size: 11px;}
+}
+
+@media only screen and (min-width: 200px) and (max-width: 450px) {
+    .top_header_area {text-align: left;width: 100%;margin-bottom: 10px;}
+    .top_header_area span {padding: 0px 0;display: block;}
+    .search_area { width: 100%;}
+    .search_area form {float: none;min-height: 20px;margin: 0 auto;}
+    .left_align_area {width: 100%;}
+    .child_work_area {width: 100%;}
+    .service_area {width: 100%;}
+    .child_service_area {width: 100%;}
+    .team_members_area {width: 100%;}
+    .team_members_area h3 {width: 60%;}
+    .child_footer {width: 100%;}
+    .inner_copyright_area h5 {text-align: left;}
+    .inner_copyright_area h6 {text-align: left;}
+}
